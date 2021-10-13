@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there, I'm Vishrut Margam 👋
 
-<!--
-**Vishrut8898/Vishrut8898** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Front-End Web Developer from Mumbai !!
 
-Here are some ideas to get you started:
+- 🔭 I recently completed B.Sc.Computer Science 
+- 🌱 I'm currenly learning more about front-end framework.
+- 👯 I’m looking for a opportunity to implement my skills and talents.
+- 🥅 My projects are available at [github.com/Vishrut8898]
+- 📫 You can connect with me on [https://www.linkedin.com/in/vishrut-margam-02b645201/]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />

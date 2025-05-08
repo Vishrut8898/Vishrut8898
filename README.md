@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/vishrutmargam"><img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://www.linkedin.com/in/vishrutmargam"><img align="left" alt="LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/500px-LinkedIn_logo_initials.png" /></a>
 
 <br />
 

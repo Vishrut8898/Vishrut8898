@@ -34,8 +34,8 @@
 
 <a href="https://code.visualstudio.com/"><img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></a>
 
-<a href="https://nodejs.org/docs/latest/api/"><img align="left" alt="NodeJS" width="26px" src="https://w1.pngwing.com/pngs/885/534/png-transparent-green-grass-nodejs-javascript-react-mean-angularjs-logo-symbol.png" /></a>
+<a href="https://nodejs.org/docs/latest/api/"><img align="left" alt="NodeJS" width="26px" src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" /></a>
 
-<a href="https://expressjs.com/"><img align="left" alt="NextJS" width="26px" src="https://w7.pngwing.com/pngs/846/87/png-transparent-mean-solution-stack-express-js-node-js-javascript-github-text-trademark-logo.png" /></a>
+<a href="https://expressjs.com/"><img align="left" alt="NextJS" width="26px" src="https://static-00.iconduck.com/assets.00/express-original-icon-512x298-28hzbsin.png" /></a>
 
-<a href="https://www.mongodb.com/"><img align="left" alt="NextJS" width="26px" src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon.png" /></a>
+<a href="https://www.mongodb.com/"><img align="left" alt="NextJS" width="26px" src="https://static-00.iconduck.com/assets.00/mongodb-original-wordmark-icon-505x512-q86sq243.png" /></a>

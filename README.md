@@ -1,10 +1,10 @@
 ### Hi there, My name is Vishrut Margam 👋
 
-## I'm recognized for my Front-End Development skills !!
+## I'm recognized for my Web Development skills !!
 
-- 🚀 Seasoned Front-End Web Developer with over 2+ years of hands-on experience in crafting visually appealing and highly functional user interfaces.
-- 🛠️ I'm good with technologies such as HTML, CSS, Javascript, Typescript, ReactJS, NextJS
-- 🌱 I'm currenly learning more about server-side rendering using NextJS
+- 🚀 Seasoned Web Developer with over 3 years of hands-on experience in crafting visually appealing and highly functional web applications.
+- 🛠️ I'm good with technologies such as HTML, CSS, Javascript, Typescript, ReactJS, NextJS, NodeJS, ExpressJS & MongoDB.
+- 🌱 I'm currenly learning more about backend technologies such as NodeJS & MongoDB.
 - 👯 I’m looking for an opportunity to implement my skills and broaden my expertise.
 - 👨‍💻 My projects are available in <a href="https://github.com/Vishrut8898?tab=repositories">here</a>
 - 📝 Check out my medium blog <a href="https://vishrut9869.medium.com/how-to-become-a-mern-stack-developer-a92afc9b52ec">here</a>
